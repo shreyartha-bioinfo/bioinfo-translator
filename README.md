@@ -7,7 +7,7 @@ This repository contains a lightweight Python implementation of the **Central Do
 
 
 
-[Image of Genetic Code Codon Table]
+<img width="3999" height="3999" alt="image" src="https://github.com/user-attachments/assets/53ed3167-fc4e-4c4f-9da4-72789edcf20e" />
 
 
 ## Biological Context
