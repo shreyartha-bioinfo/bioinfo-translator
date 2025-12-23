@@ -29,3 +29,23 @@ To run this script, you just need Python installed on your machine.
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/YOUR_USERNAME/bioinfo-translator.git](https://github.com/YOUR_USERNAME/bioinfo-translator.git)
+
+2. Run the script:
+
+python translator.py
+
+
+Example Input/Output
+Input (DNA): ATGGCCATTGTAATGGGCCGCTGA
+
+Output (Protein): MAIVMGR_
+
+Repository Structure
+translator.py: The main Python script containing the translation logic.
+
+README.md: Project documentation.
+
+data/: (Coming Soon) Sample genomic files in .fasta format.
+
+License
+Distributed under the MIT License. See LICENSE for more information.
